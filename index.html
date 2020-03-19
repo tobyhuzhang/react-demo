@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>让一切变得有趣</title>
@@ -313,6 +314,12 @@
         var mainItemTop = mainContent.find('[data-id=' + navItemFor + ']').offset().top - 92;
         $('body, html').animate({ scrollTop: mainItemTop });
       });
+
+      $.getJSON("./data/index.json", "", function (data) {
+        $.each(data, function (i, item) {
+          console.info(item);
+        })
+      });
     });
   </script>
   <script>
@@ -326,4 +333,5 @@
   </script>
 
 </body>
+
 </html>
