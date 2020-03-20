@@ -132,17 +132,15 @@ class App extends React.Component {
         super()
     }
     render() {
-        return (<Header />,
-            <Section />,
-            <Footer />)
+        return this.props.children;
     }
 }
 ReactDOM.render(
-    <div>
+    <App>
         <Header />,
         <Section />,
         <Footer />
-    </div>
+    </App>
     ,
     document.getElementById('app')
 );
