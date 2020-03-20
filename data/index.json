@@ -53,6 +53,12 @@
                 "logo":"./img/importnew.png",
                 "desc":"专注Java &amp; Android 技术分享",
                 "link":"http://www.importnew.com/"
+            },
+            {
+                "name":"美团技术",
+                "logo":"./img/logo_meituan.jpg",
+                "desc":"美团技术团队",
+                "link":"https://tech.meituan.com/" 
             }
         ]
     },
@@ -63,52 +69,58 @@
         "caption-icon":"icon icon-nav",
         "contentList": [
             {
-                "name":"博客园",
-                "logo":"./img/logo_small.gif",
-                "desc":"开发者的网上家园",
-                "link":"https://www.cnblogs.com/"
+                "name":"谷歌学术搜索",
+                "logo":"./img/scholar_logo_64dp_1x.png",
+                "desc":"谷歌学术论文搜索",
+                "link":"http://so.hiqq.com.cn/"
             },
             {
-                "name":"CSDN",
-                "logo":"./img/csdn.gif",
-                "desc":"开发者的网上家园",
-                "link":"https://www.csdn.net/"
-            },
-            {
-                "name":"51CTO",
-                "logo":"./img/logo.gif",
-                "desc":"中国领先的IT技术网站",
-                "link":"http://www.51cto.com/"
-            },
-            {
-                "name":"w3school",
-                "logo":"./img/w3school.png",
-                "desc":"全球最大的中文 Web 技术教程",
-                "link":"http://www.w3school.com.cn/"
-            },
-            {
-                "name":"开源中国",
+                "name":"在线工具",
                 "logo":"./img/logo_oschina.gif",
-                "desc":"中国最大的开源技术社区",
-                "link":"http://www.oschina.net/"
+                "desc":"开源中国在线工具",
+                "link":"http://tool.oschina.net/"
             },
             {
-                "name":"segmentfault",
+                "name":"CloudConvert",
+                "logo":"./img/cloudconvert.png",
+                "desc":"在线转化压缩包、字体、图片、视频、电子书",
+                "link":"https://cloudconvert.com/"
+            },
+            {
+                "name":"iLovePDF",
+                "logo":"./img/ilovepdf.svg",
+                "desc":"为PDF爱好者提供的PDF文件在线转换工具",
+                "link":"https://www.ilovepdf.com/zh_cn"
+            },
+            {
+                "name":"Convertio",
+                "logo":"./img/convertio.png",
+                "desc":"文件转换器",
+                "link":"https://convertio.co/zh"
+            },
+            {
+                "name":"tool.lu",
+                "logo":"./img/tool.png",
+                "desc":"程序员的工具箱",
+                "link":"https://tool.lu/"
+            },
+            {
+                "name":"Markdown",
                 "logo":"./img/segmentfault.png",
-                "desc":"中国领先的开发者技术社区",
-                "link":"https://segmentfault.com/"
+                "desc":"Markdown微信公号编辑器",
+                "link":"http://md.phodal.com/"
             },
             {
-                "name":"Liinux公社",
+                "name":"Be JSON",
                 "logo":"./img/linuxidc_logo.jpg",
-                "desc":"Linux系统门户网站",
-                "link":"http://www.linuxidc.com/"
+                "desc":"在线JSON校验格式化工具",
+                "link":"http://www.bejson.com/"
             },
             {
-                "name":"importnew",
+                "name":"code2img",
                 "logo":"./img/importnew.png",
-                "desc":"专注Java &amp; Android 技术分享",
-                "link":"http://www.importnew.com/"
+                "desc":"代码片段转化成图片",
+                "link":"http://code2img.75team.com/"
             }
         ]
     },
@@ -119,52 +131,58 @@
         "caption-icon":"icon icon-nav",
         "contentList": [
             {
-                "name":"博客园",
-                "logo":"./img/logo_small.gif",
-                "desc":"开发者的网上家园",
-                "link":"https://www.cnblogs.com/"
+                "name":"纯洁的微笑",
+                "logo":"./img/favicon.png",
+                "desc":"纯洁的微笑技术分享博客",
+                "link":"http://www.ityouknow.com/"
             },
             {
-                "name":"CSDN",
-                "logo":"./img/csdn.gif",
-                "desc":"开发者的网上家园",
-                "link":"https://www.csdn.net/"
+                "name":"农码一生",
+                "logo":"./img/zhaopei.jpg",
+                "desc":"开始，我们以为自己什么都知道。后来发现，其实我们什么都不知道。",
+                "link":"http://www.cnblogs.com/zhaopei/"
             },
             {
-                "name":"51CTO",
-                "logo":"./img/logo.gif",
-                "desc":"中国领先的IT技术网站",
-                "link":"http://www.51cto.com/"
+                "name":"左潇龙",
+                "logo":"./img/header_logo.png",
+                "desc":"记录了职场与生活当中的点点滴滴，让你看到不一样的程序员博客",
+                "link":"http://www.zuoxiaolong.com/"
             },
             {
-                "name":"w3school",
-                "logo":"./img/w3school.png",
-                "desc":"全球最大的中文 Web 技术教程",
-                "link":"http://www.w3school.com.cn/"
+                "name":"柒's Blog",
+                "logo":"./img/52itstyle.jpeg",
+                "desc":"其实我是一个程序员",
+                "link":"https://blog.52itstyle.com/"
             },
             {
-                "name":"开源中国",
-                "logo":"./img/logo_oschina.gif",
-                "desc":"中国最大的开源技术社区",
-                "link":"http://www.oschina.net/"
+                "name":"王爵的一亩三分地",
+                "logo":"./img/biezhi.png",
+                "desc":"坚持做你所热爱的",
+                "link":"https://blog.biezhi.me/"
             },
             {
-                "name":"segmentfault",
-                "logo":"./img/segmentfault.png",
-                "desc":"中国领先的开发者技术社区",
-                "link":"https://segmentfault.com/"
+                "name":"黑鸟",
+                "logo":"./img/blovb.png",
+                "desc":"黑鸟安全网走进信息安全",
+                "link":"http://www.blovb.com/"
             },
             {
-                "name":"Liinux公社",
-                "logo":"./img/linuxidc_logo.jpg",
-                "desc":"Linux系统门户网站",
-                "link":"http://www.linuxidc.com/"
+                "name":"chenssy",
+                "logo":"./img/qiniudn.png",
+                "desc":"致力打造Java精品博客站点",
+                "link":"http://cmsblogs.com/"
             },
             {
-                "name":"importnew",
-                "logo":"./img/importnew.png",
-                "desc":"专注Java &amp; Android 技术分享",
-                "link":"http://www.importnew.com/"
+                "name":"更多原创技术博客",
+                "logo":"./img/techblog.png",
+                "desc":"更多原创技术博客，请关注原创技术博客大联盟！",
+                "link":"http://relatos.top/techblog/"
+            },
+            {
+                "name":"田园里的蟋蟀",
+                "logo":"./img/logo_default.png",
+                "desc":"田园里的蟋蟀",
+                "link":"https://www.cnblogs.com/xishuai/"
             }
         ]
     },
@@ -175,52 +193,40 @@
         "caption-icon":"icon icon-nav",
         "contentList": [
             {
-                "name":"博客园",
-                "logo":"./img/logo_small.gif",
-                "desc":"开发者的网上家园",
-                "link":"https://www.cnblogs.com/"
+                "name":"云收藏",
+                "logo":"./img/favorites.ico",
+                "desc":"让收藏更简单！-Spring Boot开源项目",
+                "link":"http://favorites.ren/"
             },
             {
-                "name":"CSDN",
-                "logo":"./img/csdn.gif",
-                "desc":"开发者的网上家园",
-                "link":"https://www.csdn.net/"
+                "name":"Spring Boot 中文索引",
+                "logo":"./img/spring.png",
+                "desc":"Spring Boot 中文社区资源链接导航，开源代码，博客，工具",
+                "link":"http://www.springboot.fun/"
             },
             {
-                "name":"51CTO",
-                "logo":"./img/logo.gif",
-                "desc":"中国领先的IT技术网站",
-                "link":"http://www.51cto.com/"
+                "name":"Spring Cloud 中文索引",
+                "logo":"./img/spring.png",
+                "desc":"Spring Cloud 中文社区资源链接导航，开源代码，博客，工具",
+                "link":"http://www.springcloud.fun/"
             },
             {
-                "name":"w3school",
-                "logo":"./img/w3school.png",
-                "desc":"全球最大的中文 Web 技术教程",
-                "link":"http://www.w3school.com.cn/"
+                "name":"BT导航",
+                "logo":"./img/wherebt.ico",
+                "desc":"致力于提供一切BT相关的导航服务",
+                "link":"http://wherebt.com/"
             },
             {
-                "name":"开源中国",
-                "logo":"./img/logo_oschina.gif",
-                "desc":"中国最大的开源技术社区",
-                "link":"http://www.oschina.net/"
+                "name":"myslide",
+                "logo":"./img/mysilde.png",
+                "desc":"专注PPT分享，追随SlideShare和SpeakerDeck的脚步",
+                "link":"http://myslide.cn/"
             },
             {
-                "name":"segmentfault",
-                "logo":"./img/segmentfault.png",
-                "desc":"中国领先的开发者技术社区",
-                "link":"https://segmentfault.com/"
-            },
-            {
-                "name":"Liinux公社",
-                "logo":"./img/linuxidc_logo.jpg",
-                "desc":"Linux系统门户网站",
-                "link":"http://www.linuxidc.com/"
-            },
-            {
-                "name":"importnew",
-                "logo":"./img/importnew.png",
-                "desc":"专注Java &amp; Android 技术分享",
-                "link":"http://www.importnew.com/"
+                "name":"推荐资源",
+                "logo":"./img/github.jpg",
+                "desc":"想给本站推荐资源，欢迎在github上给我留言！",
+                "link":"https://github.com/ityouknow/blog-comments/issues/124"
             }
         ]
     }

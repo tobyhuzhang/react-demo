@@ -22,8 +22,15 @@ class Header extends React.Component {
         let currentDom = e.target
         e.preventDefault();
         console.info(currentDom.parentNode);
-        let mainItemTop = document.querySelector("div[data-id=blog]");
-        document.querySelector("html, body").scrollTo(mainItemTop);
+        let toDataId = currentDom.getAttribute("data-for");
+        console.info(toDataId);
+        let mainItemTop = document.querySelector("div[data-id=" + toDataId + "]");
+        var elementPosition = mainItemTop.getBoundingClientRect().top -100;
+        //mainItemTop.scrollIntoView();
+        window.scrollTo({
+            top: elementPosition,
+            behavior: "smooth"
+       });
     }
     render() {
         return <header id="header">
@@ -42,7 +49,7 @@ class Header extends React.Component {
                                     style = "active";
                                 }
                                 return <li className={style} key={nav.id}>
-                                    <a target="_blank" href="javascript:void(0);" data-for="{nav.id}" onClick={this.handleClickNav}>{nav.name}</a>
+                                    <a target="_blank" href="javascript:void(0);" data-for={nav.id} onClick={this.handleClickNav}>{nav.name}</a>
                                 </li>
                             })
                         }
