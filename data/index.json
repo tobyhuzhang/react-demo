@@ -53,12 +53,6 @@
                 "logo":"./img/importnew.png",
                 "desc":"专注Java &amp; Android 技术分享",
                 "link":"http://www.importnew.com/"
-            },
-            {
-                "name":"美团技术",
-                "logo":"./img/logo_meituan.jpg",
-                "desc":"美团技术团队",
-                "link":"https://tech.meituan.com/" 
             }
         ]
     },
@@ -130,6 +124,12 @@
         "caption": "博客",
         "caption-icon":"icon icon-nav",
         "contentList": [
+            {
+                "name":"美团技术",
+                "logo":"./img/logo_meituan.jpg",
+                "desc":"美团技术团队",
+                "link":"https://tech.meituan.com/" 
+            },
             {
                 "name":"纯洁的微笑",
                 "logo":"./img/favicon.png",
