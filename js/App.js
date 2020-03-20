@@ -60,7 +60,7 @@ class Header extends React.Component {
     }
 }
 
-class Section extends React.Component {
+class Articles extends React.Component {
     constructor() {
         super();
         this.state = {
@@ -138,7 +138,7 @@ class App extends React.Component {
 ReactDOM.render(
     <App>
         <Header />,
-        <Section />,
+        <Articles />,
         <Footer />
     </App>
     ,
