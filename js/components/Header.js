@@ -21,9 +21,9 @@ class Header extends React.Component {
     handleClickNav(e) {
         let currentDom = e.target
         e.preventDefault();
-        console.info(currentDom.parentNode);
+        // console.info(currentDom.parentNode);
         let toDataId = currentDom.getAttribute("data-for");
-        console.info(toDataId);
+        // console.info(toDataId);
         let mainItemTop = document.querySelector("div[data-id=" + toDataId + "]");
         var elementPosition = mainItemTop.getBoundingClientRect().top -100;
         //mainItemTop.scrollIntoView();
@@ -37,7 +37,7 @@ class Header extends React.Component {
             <div className="container">
                 <h2 className="logo">
                     <a target="_blank" href="http://www.kotall.com/">
-                        <img src="./img/logo.png" alt="" />
+                        <img src="/img/logo.png" alt="" />
                     </a>
                 </h2>
                 <nav id="nav" className="nav">
