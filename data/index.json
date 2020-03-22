@@ -202,6 +202,12 @@
                 "logo": "./img/logo_default.png",
                 "desc": "Disruptor各种使用场景",
                 "link": "https://www.cnblogs.com/pku-liuqiang/p/8544700.html"
+            },
+            {
+                "name": "前端资源汇总帖子",
+                "logo": "./img/logo_default.png",
+                "desc": "前端资源汇总帖子",
+                "link": "https://www.cnblogs.com/mz-2015/p/9302586.html"
             }
         ]
     },
