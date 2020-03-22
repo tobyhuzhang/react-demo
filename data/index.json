@@ -294,6 +294,30 @@
                 "logo": "./img/legulegu-xone.png",
                 "desc": "M1M2走势图 M1M2历史数据",
                 "link": "https://legulegu.com/stockdata/m1m2"
+            },
+            {
+                "name": "制造业—PMI",
+                "logo": "./img/logo_new.gif",
+                "desc": "中国 采购经理人指数（PMI）",
+                "link": "http://data.eastmoney.com/cjsj/pmi.html"
+            },
+            {
+                "name": "汽车—经销商库存预警指数",
+                "logo": "./img/logo_qiche.png",
+                "desc": "汽车—经销商库存预警指数",
+                "link": "http://www.cada.cn/Data/list_85_1.html"
+            },
+            {
+                "name": "航运—BDI",
+                "logo": "./img/logo_hangyun.jpg",
+                "desc": "航运—BDI",
+                "link": "http://www.96369.net/indices/77"
+            },
+            {
+                "name": "行情及数据分析",
+                "logo": "./img/logo_itjuzi.png",
+                "desc": "行情及数据分析",
+                "link": "https://www.itjuzi.com/analysis#investment"
             }
         ]
     }
