@@ -208,6 +208,24 @@
                 "logo": "./img/logo_default.png",
                 "desc": "前端资源汇总帖子",
                 "link": "https://www.cnblogs.com/mz-2015/p/9302586.html"
+            },
+            {
+                "name": "前端资源汇总帖子",
+                "logo": "./img/logo_default.png",
+                "desc": "前端资源汇总帖子",
+                "link": "http://www.alloyteam.com/nav/"
+            },
+            {
+                "name": "前端资源开发库",
+                "logo": "./img/logo_frontawsome.png",
+                "desc": "前端资源开发库",
+                "link": "https://www.awesomes.cn/"
+            },
+            {
+                "name": "Linux命令大全",
+                "logo": "./img/logo_frontawsome.png",
+                "desc": "Linux命令大全",
+                "link": "https://man.linuxde.net/"
             }
         ]
     },
