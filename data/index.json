@@ -50,6 +50,18 @@
                 "logo": "./img/importnew.png",
                 "desc": "专注Java &amp; Android 技术分享",
                 "link": "http://www.importnew.com/"
+            },
+            {
+                "name": "美团技术",
+                "logo": "./img/logo_meituan.jpg",
+                "desc": "美团技术团队",
+                "link": "https://tech.meituan.com/"
+            },
+            {
+                "name": "凤凰牌老熊",
+                "logo": "./img/favicon_32.png",
+                "desc": "凤凰牌老熊",
+                "link": "http://doc.cocolian.cn/"
             }
         ]
     },
@@ -111,6 +123,18 @@
                 "logo": "./img/importnew.png",
                 "desc": "代码片段转化成图片",
                 "link": "http://code2img.75team.com/"
+            },
+            {
+                "name": "Color-Hunt",
+                "logo": "./img/color-hunt-palettes-logo.png",
+                "desc": "网页设计颜色库",
+                "link": "https://colorhunt.co/"
+            },
+            {
+                "name": "Greasy Fork",
+                "logo": "./img/logo_Greasy_Fork.png",
+                "desc": "Greasy Fork各种脚本",
+                "link": "https://greasyfork.org/zh-CN/scripts"
             }
         ]
     },
@@ -120,12 +144,6 @@
         "caption": "博客",
         "caption-icon": "icon icon-nav",
         "contentList": [{
-                "name": "美团技术",
-                "logo": "./img/logo_meituan.jpg",
-                "desc": "美团技术团队",
-                "link": "https://tech.meituan.com/"
-            },
-            {
                 "name": "纯洁的微笑",
                 "logo": "./img/favicon.png",
                 "desc": "纯洁的微笑技术分享博客",
@@ -178,6 +196,12 @@
                 "logo": "./img/logo_default.png",
                 "desc": "田园里的蟋蟀",
                 "link": "https://www.cnblogs.com/xishuai/"
+            },
+            {
+                "name": "Disruptor使用",
+                "logo": "./img/logo_default.png",
+                "desc": "Disruptor各种使用场景",
+                "link": "https://www.cnblogs.com/pku-liuqiang/p/8544700.html"
             }
         ]
     },
@@ -221,6 +245,12 @@
                 "logo": "./img/github.jpg",
                 "desc": "想给本站推荐资源，欢迎在github上给我留言！",
                 "link": "https://github.com/ityouknow/blog-comments/issues/124"
+            },
+            {
+                "name": "程序员面试宝典",
+                "logo": "./img/wityx.png",
+                "desc": "程序员面试宝典",
+                "link": "http://www.wityx.com/"
             }
         ]
     },
