@@ -257,6 +257,12 @@
                 "logo": "./img/wityx.png",
                 "desc": "程序员面试宝典",
                 "link": "http://www.wityx.com/"
+            },
+            {
+                "name": "学渣导航",
+                "logo": "./img/logo_xuezha.png",
+                "desc": "学渣导航",
+                "link": "https://www.xuezha.vip/"
             }
         ]
     },
