@@ -226,6 +226,12 @@
                 "logo": "./img/logo_frontawsome.png",
                 "desc": "Linux命令大全",
                 "link": "https://man.linuxde.net/"
+            },
+            {
+                "name": "React急速入门小书",
+                "logo": "./img/logo_frontawsome.png",
+                "desc": "精致React急速入门教程",
+                "link": "http://huziketang.mangojuice.top/books/react/"
             }
         ]
     },
