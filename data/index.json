@@ -229,9 +229,15 @@
             },
             {
                 "name": "React急速入门小书",
-                "logo": "./img/logo_frontawsome.png",
+                "logo": "./img/logo_default.png",
                 "desc": "精致React急速入门教程",
                 "link": "http://huziketang.mangojuice.top/books/react/"
+            },
+            {
+                "name": "油管大神Darkcode网页设计",
+                "logo": "./img/logo_default.png",
+                "desc": "炫酷样式设计(Html+Css+JQuery)",
+                "link": "https://www.bilibili.com/video/BV1uJ41147dS?from=search&seid=3838861589030281324"
             }
         ]
     },
