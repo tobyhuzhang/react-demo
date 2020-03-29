@@ -62,6 +62,18 @@
                 "logo": "./img/favicon_32.png",
                 "desc": "凤凰牌老熊",
                 "link": "http://doc.cocolian.cn/"
+            },
+            {
+                "name": "全球创业创新资讯",
+                "logo": "./img/logo_TechCrunch.jpg",
+                "desc": "全球创业创新资讯",
+                "link": "https://twitter.com/techcrunch"
+            },
+            {
+                "name": "中国产业信息网",
+                "logo": "./img/logo_chyxx.gif",
+                "desc": "中国产业信息网",
+                "link": "http://www.chyxx.com/shuju/"
             }
         ]
     },
