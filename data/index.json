@@ -68,12 +68,6 @@
                 "logo": "./img/logo_TechCrunch.jpg",
                 "desc": "全球创业创新资讯",
                 "link": "https://twitter.com/techcrunch"
-            },
-            {
-                "name": "中国产业信息网",
-                "logo": "./img/logo_chyxx.gif",
-                "desc": "中国产业信息网",
-                "link": "http://www.chyxx.com/shuju/"
             }
         ]
     },
@@ -147,6 +141,18 @@
                 "logo": "./img/logo_Greasy_Fork.png",
                 "desc": "Greasy Fork各种脚本",
                 "link": "https://greasyfork.org/zh-CN/scripts"
+            },
+            {
+                "name": "糊涂工具包",
+                "logo": "./img/logo_default.png",
+                "desc": "糊涂工具包",
+                "link": "https://hutool.cn/"
+            },
+            {
+                "name": "印记中文",
+                "logo": "./img/logo_yjzw.svg",
+                "desc": "国外前端新领域",
+                "link": "https://docschina.org/"
             }
         ]
     },
@@ -366,6 +372,12 @@
                 "logo": "./img/logo_itjuzi.png",
                 "desc": "行情及数据分析",
                 "link": "https://www.itjuzi.com/analysis#investment"
+            },
+            {
+                "name": "中国产业信息网",
+                "logo": "./img/logo_chyxx.gif",
+                "desc": "中国产业信息网",
+                "link": "http://www.chyxx.com/shuju/"
             }
         ]
     }
